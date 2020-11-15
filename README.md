@@ -4,7 +4,7 @@
 This app allows users to change the background color, change the text label, change the color of the text label, and make the text label custom text.
 
 ### App Walk-though
-<img src="https://github.com/collindang88/codepath-android/blob/main/android_app.gif" width=200><br>
+<img src="https://github.com/collindang88/codepath-android/blob/main/android_app.gif" width=400><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
